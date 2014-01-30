@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rock Paper Scissors Lizard Spock</string>
+    <string name="you">You: </string>
+    <string name="other">Android: </string><string name="score">Score: </string><string name="player">You win!</string>
+    <string name="android">Android wins! </string>
+    <string name="winner">Draw!</string>
+    <string name="spockscissors">Spock smashes scissors</string>
+    <string name="spockrock">Spock vaporizes rock</string>
+    <string name="rockscissors">Rock crushes scissors</string>
+    <string name="rocklizard">Rock crushes lizard</string>
+    <string name="paperrock">Paper covers rock</string>
+    <string name="paperspock">Paper disproves Spock</string>
+    <string name="lizardspock">Lizard poisons Spock</string>
+    <string name="lizardpaper">Lizard eats paper</string>
+    <string name="scissorspaper">Scissors cuts paper</string>
+    <string name="scissorslizard">Scissors decapitates lizard</string>
+    
+    
+</resources>
